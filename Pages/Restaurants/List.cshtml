@@ -1,0 +1,33 @@
+﻿@page
+@model WebApplication8.Pages.Restaurants.ListModel
+@{
+}
+<h1>Restaurants</h1>
+<form method="get">
+    <div class="mb-3">
+        <span>
+            <i class="bi-alarm"></i>
+        </span>
+        <label for="searchTerm" class="form-label">Email address</label>
+        <input type="text" class="form-control" id="searchTerm" name="searchTerm" value="@Model.SearchTerm" placeholder="نام رستوران را وارد کنید">
+        <button type="submit" class="btn btn-primary mt-1">Send<i class="bi-alarm"></i></button>
+    </div>
+</form>
+
+<table class="table">
+    <tr>
+        <th>ID</th>
+        <th>Name</th>
+        <th>Localtion</th> 
+        <th>Type</th>
+    </tr>
+    @foreach (var resturant in Model.Restaurants)
+    {
+<tr>
+    <td>@resturant.Id</td>
+    <td>@resturant.Name</td>
+    <td>@resturant.Location</td>
+    <td>@resturant.Cuisine</td>
+</tr>
+    }
+</table>

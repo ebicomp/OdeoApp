@@ -38,3 +38,9 @@ C:\Users\ab.karimi\source\repos\WebApplication8\obj\Debug\net5.0\ref\WebApplicat
 C:\Users\ab.karimi\source\repos\WebApplication8\obj\Debug\net5.0\WebApplication8.pdb
 C:\Users\ab.karimi\source\repos\WebApplication8\obj\Debug\net5.0\WebApplication8.genruntimeconfig.cache
 C:\Users\ab.karimi\source\repos\WebApplication8\obj\Debug\net5.0\WebApplication8.csproj.CopyComplete
+C:\Users\ab.karimi\source\repos\WebApplication8\obj\Debug\net5.0\Razor\Pages\Restaurants\List.cshtml.g.cs
+C:\Users\ab.karimi\source\repos\WebApplication8\bin\Debug\net5.0\OdeoToFood.Core.dll
+C:\Users\ab.karimi\source\repos\WebApplication8\bin\Debug\net5.0\OdeToFood.Data.dll
+C:\Users\ab.karimi\source\repos\WebApplication8\bin\Debug\net5.0\OdeToFood.Data.pdb
+C:\Users\ab.karimi\source\repos\WebApplication8\bin\Debug\net5.0\OdeoToFood.Core.pdb
+C:\Users\ab.karimi\source\repos\WebApplication8\bin\Debug\net5.0\libman.json
